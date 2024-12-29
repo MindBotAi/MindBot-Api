@@ -2,7 +2,7 @@
 
 ![MindBot Logo](https://mindbotai.netlify.app/assets/images/mindbotlogo%20copy.png)  <!-- Replace with your actual logo image -->
 
-This project is a simple interactive chatbot using Google's Gemini AI model. It allows users to input prompts and receive responses from the AI in real time.
+This project is a simple interactive chatbot that allows users to input prompts and receive responses in real time.
 
 ## Overview
 
