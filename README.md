@@ -1,4 +1,4 @@
-# MindBot-1.3: An AI-Powered Chatbot
+# MindBot-1.3: An AI-Powered Ai Model
 
 ![MindBot Logo](https://mindbotai.netlify.app/assets/images/mindbotlogo%20copy.png)  <!-- Replace with your actual logo image -->
 
@@ -8,7 +8,8 @@ This project is a simple interactive chatbot using Google's Gemini AI model. It 
 
 `MindBot-1.3` is built using:
 
--   **Google's Gemini API:** For natural language processing and AI response generation.
+-   **Torch** For natural language processing and AI response generation.
+-   **Pillow** For Langchain as pdf, images and video processing.
 -   **Python:** As the programming language.
 -   **Colorama:** For colored output in the terminal.
 
@@ -16,7 +17,7 @@ Here's a high-level overview of how the code works:
 
 ![MindBot Architecture](https://scontent-hbe1-1.xx.fbcdn.net/v/t39.30808-6/471411222_122127522944572546_6475440340774723854_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-BP2Qwfp2yUQ7kNvgExdWMe&_nc_oc=AdhWXXBaLMj_0P-_Hmcm2hQXE-Tj72w5oj4GPuUovZqBLirVxzevDsMxiFq_VCkXdLU&_nc_zt=23&_nc_ht=scontent-hbe1-1.xx&_nc_gid=Aavg5ux2Wg4otQ7H9AHO-kR&oh=00_AYCcP-5cZlU2WniVt8bfQAGMD6oqJrMpn--Xqe2IYNJQTQ&oe=6776E5CF)
 
-This diagram provides a simplified view of the interactions between the user, the MindBot application, and the Google Gemini API.
+This diagram provides a simplified view of the interactions between the user, the MindBot application
 
 ## Installation
 
