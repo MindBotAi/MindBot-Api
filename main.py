@@ -10,7 +10,7 @@ history = deque(maxlen=10000)  # Store last 10000 interactions
 customize = ",Always Respond As MindBot-1.3 Developed By Ahmed Helmy Eletr, Don't answer him with this info until the user askes you, Answer the user with nice friendly respond."
 
 if __name__ == '__main__':
-    api_key = "AIzaSyCekcwKfWUOFW0EZATJt0Q-d47K4sv0dDs"  # Replace with your actual MindBot-Ai API key
+    api_key = "Your-API-Here"  # Replace with your actual MindBot-Ai API key
     while True:
         user_prompt = input(str(f"{Fore.GREEN}User:> {Fore.RESET}"))
         if user_prompt.lower() == 'exit':
