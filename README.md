@@ -1,6 +1,6 @@
 # MindBot-1.3: An AI-Powered Ai Model
 
-![MindBot Logo](https://mindbotai.netlify.app/assets/images/mindbotlogo%20copy.png)  <!-- Replace with your actual logo image -->
+![MindBot Logo]([https://i.ibb.co/MR7wKr4/mindboewebsite-logo.png]))  <!-- Replace with your actual logo image -->
 
 This project is a simple interactive chatbot that allows users to input prompts and receive responses in real time.
 
